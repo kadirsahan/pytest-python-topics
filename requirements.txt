@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+nose
+tinydb
+###### Requirements with Version Specifiers ######
+pytest == 6.2.5
+
